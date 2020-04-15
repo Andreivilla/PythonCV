@@ -1,4 +1,4 @@
-valor = int(input('digite o valor a ser scadao: '))
+valor = int(input('digite o valor a ser sacado: '))
 const50 = const20 = const10 = const1 = 0
 while True:
     if valor / 50 > 0:
