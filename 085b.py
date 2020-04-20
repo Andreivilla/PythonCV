@@ -6,7 +6,7 @@ for i in  range(7):
     else:
         vet[1].append(n)
 
-vet[0].sort()
+vet[0].sort()#ordena vetor
 vet[1].sort()
 
 print('Pares: {}'.format(vet[0]))
